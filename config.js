@@ -1,2 +1,2 @@
-// 香港互动课堂完成HTTPS部署后，在这里填写真实地址；不要填写任何密钥。
-window.COURSE_CONFIG = Object.freeze({ interactiveUrl: '' });
+// 公开课程入口配置，不含账号或密钥。
+window.COURSE_CONFIG = Object.freeze({"interactiveUrl":"https://course-43-161-194-93.sslip.io/"});

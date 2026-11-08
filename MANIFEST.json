@@ -11,18 +11,18 @@
   },
   {
     "file": "config.js",
-    "bytes": 164,
-    "sha256": "f8e28f5412b210b130d6bc3c19cc52ca2cea46f808f00ed44dc0344b05c071c8"
+    "bytes": 154,
+    "sha256": "ec252ef24427b4fffaf3d14414b9377d7dbe857874e8f8d2ac3139e8e8ccd887"
   },
   {
     "file": "index.html",
-    "bytes": 159107,
-    "sha256": "2d76e4f1ae36ddc3412236530575b862d22eb53923c0ac2162c9a6f56b7d37e1"
+    "bytes": 159113,
+    "sha256": "3d22c92619f202bb1e8300f853a8fdfc75fc867569d1aef460fcebd26936644e"
   },
   {
     "file": "README.md",
-    "bytes": 1080,
-    "sha256": "eb8af7bef4e9aa572169ff2b25c580c647a1462d2bb2a6370425e1f9809741e0"
+    "bytes": 1133,
+    "sha256": "9f399bb769c2916311a601bc9089b0db28f33df2196f74fb5aa5c2455f5c1759"
   },
   {
     "file": "style.css",
