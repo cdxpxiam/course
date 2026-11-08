@@ -1,0 +1,132 @@
+[
+  {
+    "file": ".nojekyll",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "app.js",
+    "bytes": 2384,
+    "sha256": "e7d3cda82a68156e7fcbcfc6a48d9d550fde982bf57802ba80080bad253829a0"
+  },
+  {
+    "file": "config.js",
+    "bytes": 164,
+    "sha256": "f8e28f5412b210b130d6bc3c19cc52ca2cea46f808f00ed44dc0344b05c071c8"
+  },
+  {
+    "file": "index.html",
+    "bytes": 116871,
+    "sha256": "d66c2f269b599e8a342c9e644c64d656af8619b11d14fdc158f5f2ed84a18085"
+  },
+  {
+    "file": "README.md",
+    "bytes": 1080,
+    "sha256": "eb8af7bef4e9aa572169ff2b25c580c647a1462d2bb2a6370425e1f9809741e0"
+  },
+  {
+    "file": "style.css",
+    "bytes": 4276,
+    "sha256": "912ea949dab514fbcae47bd7546ebeab42096411b31b99468243f6cb6d0961fc"
+  },
+  {
+    "file": "materials/01_系统认识与任务分解.zip",
+    "bytes": 10196,
+    "sha256": "ab4c53af9d6e32639e2d938203b6ec0ccd11d5fa2f3c9a9a14e1944aef1ec20e"
+  },
+  {
+    "file": "materials/02_STM32工程与下载.zip",
+    "bytes": 636139,
+    "sha256": "a338b820bdc32ed79799022ac7bd346db8143987c9ce4a254c483fdb83d42c8c"
+  },
+  {
+    "file": "materials/03_GPIO与基础调试.zip",
+    "bytes": 636812,
+    "sha256": "81a18af56d7b5acef1afb916b041f6f95cf1350a55b358f369b9867cc3814faf"
+  },
+  {
+    "file": "materials/04_OLED与串口输出.zip",
+    "bytes": 642339,
+    "sha256": "b0984e3ad9c536ebcece1f58b7f015dc27eb83a606ad22644c87ee5cd5b25bc8"
+  },
+  {
+    "file": "materials/05_MAX30102接线与通信.zip",
+    "bytes": 667612,
+    "sha256": "6465c5e587c61e6f847ac231bdea66c75a5306e9605f918aa6e86eb73e418c58"
+  },
+  {
+    "file": "materials/06_MAX30102硬件初始化.zip",
+    "bytes": 669305,
+    "sha256": "54151cdef931eec39e49bda2e8ad57e464f95bb24dc416020e5c377ef2863648"
+  },
+  {
+    "file": "materials/07_FIFO与原始数据.zip",
+    "bytes": 669667,
+    "sha256": "3db15ddd17abaf5af26d0313048824931baa2497ba02ec047fc964d02eda6538"
+  },
+  {
+    "file": "materials/08_滤波与信号质量.zip",
+    "bytes": 672335,
+    "sha256": "4a199d3dd088cbe7453b6e4b2116c34a23874cbf6bbb5afa56f3d7af1db84f79"
+  },
+  {
+    "file": "materials/09_心率计算.zip",
+    "bytes": 671195,
+    "sha256": "64cec2ccf1df1ea7e8d3c1002bce6f801c3c997887a50ae7d237962494c0203a"
+  },
+  {
+    "file": "materials/10_异常与恢复.zip",
+    "bytes": 673733,
+    "sha256": "809c24ac4a6945a075893b4f5b757a740f79a03a9b31d9254b78e9994caf7c6d"
+  },
+  {
+    "file": "materials/11_MKB0805通信.zip",
+    "bytes": 646655,
+    "sha256": "2b15c55be5dfc6eea35d079ec99335c4fdac14dce9a71f39d8c34b3a720bddc2"
+  },
+  {
+    "file": "materials/12_协议解析.zip",
+    "bytes": 649397,
+    "sha256": "1d7e44448185bab550d5281b8d30c3beb55d0a9e428b72fcce93ad7821aae925"
+  },
+  {
+    "file": "materials/13_MKB0805显示与状态.zip",
+    "bytes": 661747,
+    "sha256": "982b3e44c49c0327efa5d2bcaf1be022f5356664ce344ebd289a8d8070888275"
+  },
+  {
+    "file": "materials/14_传输与上位机.zip",
+    "bytes": 1336339,
+    "sha256": "f7cd7ce0301caa03961f0ba13422681db18de9beb222c31db403124e85d26a40"
+  },
+  {
+    "file": "materials/15_综合调试.zip",
+    "bytes": 1331091,
+    "sha256": "225ffda4861957117857d37de01312c844d0bb86859439c641a7d221c9fdb4b9"
+  },
+  {
+    "file": "materials/16_项目验收.zip",
+    "bytes": 1331350,
+    "sha256": "1cf87de26ad0f87e5963418d9373bbc95c38b7f0c8e9f4640beb6b6c67c37803"
+  },
+  {
+    "file": "materials/双设备心率测量_16节课程总课件_17号模板_原理扩充版_V2.pptx",
+    "bytes": 1822037,
+    "sha256": "9fba621b3a8e7a06afa52596e938ec9c379485d1c0c09863e68775bf21aff425"
+  },
+  {
+    "file": "materials/双设备心率测量_16单元教学设计_V1.docx",
+    "bytes": 36754,
+    "sha256": "3c125b0d0e04934d5e2862958dff24acfcff032888b95eb8e897c0dee65802fb"
+  },
+  {
+    "file": "materials/课程官方资料库_V1.zip",
+    "bytes": 12329008,
+    "sha256": "820d502b1aa8bb7b9038638a64d69d15b867f73ac3214e00c9624668166474ea"
+  },
+  {
+    "file": "materials/补图拍摄指南.html",
+    "bytes": 3497,
+    "sha256": "4a3867c54b7a122af89e9f5d2aafa15d84e163bb503d3441920af8d6abf3eff0"
+  }
+]
