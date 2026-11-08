@@ -11,7 +11,7 @@
     const requested = location.hash.slice(1) || 'library';
     const id = pages.some(page => page.id === requested) ? requested : 'library';
     pages.forEach(page => { page.hidden = page.id !== id; });
-    const active = id.startsWith('unit-') ? 'microcourse' : id;
+    const active = id.startsWith('unit-') ? 'microcourse' : id === 'photo-gallery' ? 'library' : id;
     document.querySelectorAll('[data-nav]').forEach(a => { if (a.dataset.nav === active) a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current'); });
     const heading = document.getElementById(id).querySelector('h2');
     document.title = heading.textContent + ' · 智测知行';
